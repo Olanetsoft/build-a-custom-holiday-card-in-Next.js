@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "label": "Season Greetings",
+    "value": "May the holiday season fill your home with joy."
+  },
+  {
+    "id": 2,
+    "label": "New Year",
+    "value": "Warmest wishes for a happy holiday."
+  },
+  {
+    "id": 3,
+    "label": "Peaceful Holiday",
+    "value": "To a healthy New Year."
+  },
+  {
+    "id": 4,
+    "label": "Magical Holiday",
+    "value": "Have a magical Holiday season!"
+  },
+  {
+    "id": 5,
+    "label": "Best Wishes",
+    "value": "Happy Holidays!"
+  }
+]

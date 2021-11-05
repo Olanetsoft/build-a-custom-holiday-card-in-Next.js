@@ -1,0 +1,20 @@
+{
+  "name": "build-a-custom-holiday-card-in-nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "cloudinary-react": "1.7.0",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-helmet": "6.1.0"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}

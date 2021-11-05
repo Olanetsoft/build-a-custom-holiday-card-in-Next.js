@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  max-width: 100vw;
+  min-height: 100vh;
+  max-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #60dfff;
+}
+
+.App .left-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-right: 0.5px solid grey;
+}
+
+.App .right-side {
+  border-left: 0.5px solid rgb(0, 0, 0);
+}
+
+.App .left-side,
+.App .right-side {
+  height: 350px;
+  width: 100%;
+}
+
+.App .left-side form {
+  height: fit-content;
+  background: white;
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 500px;
+  padding: 10px 5px;
+}
+
+.App .left-side form input {
+  margin: 10 0 20px;
+  width: 30px;
+}
+
+#text {
+  margin: 10 0 10px;
+  width: 100px;
+}
+
+.label:after {
+  content: ": ";
+}
+
+.dropbtn {
+  width: 90%;
+  padding: 20px;
+}
+
+.btn {
+  background-color: #60dfff; /* Green */
+  border-radius: 12px;
+  color: rgb(0, 0, 0);
+  padding: 10px 28px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
+}
